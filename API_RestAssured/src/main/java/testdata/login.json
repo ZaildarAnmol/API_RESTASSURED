@@ -1,0 +1,15 @@
+{
+  "qa": {
+    "username": "anmol@tekarch.com",
+    "password": "zaildar"
+  },
+  "prod": {
+    "username": "anmol@tekarch.com",
+    "password": "zaildar"
+  },
+  "stage": {
+    "username": "anmol@tekarch.com",
+    "password": "zaildar"
+  }
+
+}
